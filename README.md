@@ -8,3 +8,5 @@ Esse parágrafo está sendo feito em uma branch de desenvolvimento.
 ### Uma nova feature
 
 Precisei adicionar essa nova feature enquanto a aplicação continua em desenvolvimento.
+
+Aqui eu precisei adicionar mais algumas coisas para a mesma feature
